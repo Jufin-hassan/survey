@@ -80,8 +80,18 @@ a{
     border: 1px solid black;
 }
 
+.form-img{
+    height: 27%;
+    width: 27%;
+    margin-left: -3rem !important;
+    margin-right: 2rem;
+}
+
 .card-title{
     margin: 8px;
+    font-size: 1.5rem;
+    line-height: 30px;
+    margin-bottom: 20px;
 }
 
 .heading{
